@@ -1,0 +1,2 @@
+.\월간_데이콘_항공편_지연_예측_AI_경진대회\data\train.csv filter=lfs diff=lfs merge=lfs -text
+.\월간_데이콘_항공편_지연_예측_AI_경진대회\data\test.csv filter=lfs diff=lfs merge=lfs -text
